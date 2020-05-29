@@ -5,8 +5,9 @@
 # Leetcode-playground
 
 ![.NET Core](https://github.com/NikiforovAll/leetcode-playground/workflows/.NET%20Core/badge.svg)
-[![codecov](https://codecov.io/gh/NikiforovAll/leetcode-playground/branch/master/graph/badge.svg)](https://codecov.io/gh/NikiforovAll/leetcode-playground)
-[![MIT License][license-badge]](LICENSE.md)
+[![codecov](https://codecov.io/gh/NikiforovAll/leetcode-playground/branch/master/graph/badge.svg)](https://codecov.io/gh/NikiforovAll/leetcode-playground-template)
+[![GitHub License](https://img.shields.io/github/license/nikiforovall/leetcode-playground-template)](./LICENSE.md)
+
 
 This template allows you to solve leetcode problems locally via C#.
 
@@ -28,6 +29,5 @@ Notes: Currently, *vscode-leetcode* doesn't provide workspace based settings. Pl
 
 1. [haoel's leetcode](https://github.com/haoel/leetcode)
 2. [soulmachine's leetcode](https://github.com/soulmachine/leetcode)
-3. [kamyu104's LeetCode](https://github.com/kamyu104/LeetCode)
 4. [gouthampradhan's leetcode](https://github.com/gouthampradhan/leetcode)
 5. [qiyuangong's leetcode](https://github.com/qiyuangong/leetcode)
