@@ -7,6 +7,12 @@
       "commands": [
         "dotnet-format"
       ]
+    },
+    "altcover.global": {
+      "version": "6.8.761",
+      "commands": [
+        "altcover"
+      ]
     }
   }
 }

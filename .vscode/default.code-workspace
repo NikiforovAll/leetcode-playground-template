@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": ".."
+        }
+    ],
+    "settings": {
+        "leetcode.showDescription": "In File Comment",
+        "leetcode.workspaceFolder": "~\\dev\\leetcode",
+        "leetcode.filePath": {
+            "default": {
+                // relative folder path
+                "folder": "src/LeetCodeSolutions",
+                "filename": "${id}.${kebab-case-name}.${ext}"
+            }
+        },
+        "leetcode.defaultLanguage": "csharp",
+    }
+}
